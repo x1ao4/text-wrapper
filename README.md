@@ -27,7 +27,6 @@ prefix cherry suffix
 5. 双击运行 `start.command` 或 `start.bat` 脚本以执行 `text-wrapper.py` 脚本。
 6. 结果将写入到同一目录下名为 `output.txt` 的文件中。
 <br>
-<br>
 
 # text-wrapper
 With text-wrapper, you can automatically add a prefix and suffix to each line of your text file.
